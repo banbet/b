@@ -1,0 +1,17 @@
+A:link {text-decoration: none; COLOR: #245ec7}
+A:visited {text-decoration: none; COLOR: #245ec7}
+A:active {text-decoration: none; COLOR: #245ec7}
+A:hover {text-decoration: none; COLOR: #245ec7}
+
+a.one:link {color:#ffffff;}
+a.one:visited {color:#ffffff;}
+a.one:Active {text-decoration: none; COLOR: #ffffff}
+a.one:hover {color:#ffffff;}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+body {
+  background-color: #ffffff;
+}
